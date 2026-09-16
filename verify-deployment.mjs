@@ -1,0 +1,6 @@
+import assert from 'node:assert/strict';
+const base=process.argv[2];
+if(!base||!/^https:\/\/[a-z0-9.-]+$/.test(base))throw new Error('Pass the confirmed deployment HTTPS origin.');
+const checks=[['/',200,'Made with'],['/products/',200,'74 product types'],['/products/living-room/coffee-tables/',200,'EXAMPLE PRICE'],['/products/hospitality-commercial/checkout-counters/',200,'Checkout counters'],['/services/precision-machining/',200,'CNC turning'],['/contact/',200,'Download enquiry brief'],['/robots.txt',200,'Disallow: /'],['/sitemap.xml',200,base],['/arviga-nonexistent-page-check/',404,'This page isn’t']];
+await Promise.all(checks.map(async([url,status,phrase])=>{const r=await fetch(base+url,{signal:AbortSignal.timeout(30000)});assert.equal(r.status,status,url);const body=await r.text();assert.ok(body.includes(phrase),'Content check: '+url);if(url.includes('coffee-tables')){assert.equal((body.match(/data-view="[0-3]"/g)||[]).length,4);assert.ok(body.includes(`href="${base+url}"`),'Canonical');}console.log('PASS',status,url);}));
+const r=await fetch(base+'/assets/products/hospitality-commercial__checkout-counters.webp',{method:'HEAD',signal:AbortSignal.timeout(30000)});assert.equal(r.status,200);assert.ok(r.headers.get('content-type')?.includes('image/webp'));console.log('PASS 200 catalogue WebP asset');
