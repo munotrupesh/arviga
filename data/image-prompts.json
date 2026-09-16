@@ -1,0 +1,462 @@
+{
+  "mode": "Built-in image generation",
+  "concept_imagery": true,
+  "assets": [
+    {
+      "filename": "hero.png",
+      "category": "Editorial",
+      "product": "hero",
+      "prompt": "Use case: photorealistic-natural. Asset type: furniture brand architectural editorial hero, 16:9 landscape. A beautiful contemporary architectural interior with large warm walnut dining table, sculptural walnut chair, precise dark charcoal steel framing and a single bold cobalt blue accent chair. Premium Indian modern furniture design, quiet warm daylight, concrete and cream plaster, refined realistic grain and joinery, editorial magazine photography. No people, no text, no logo, no watermark."
+    },
+    {
+      "filename": "engineering.png",
+      "category": "Editorial",
+      "product": "engineering",
+      "prompt": "Use case: photorealistic-natural. Asset type: furniture engineering editorial, 16:9 landscape photograph. Extreme tactile close-up of precisely fabricated dark steel furniture frame joint and a warm walnut furniture component on a professional fabrication workbench. Authentic clean weld seam, machining marks, caliper beside the component, directional workshop daylight, premium craft photography in charcoal and warm timber palette. No people, no text, no logos, no watermark."
+    },
+    {
+      "filename": "living-room__tv-units.png",
+      "category": "Living Room",
+      "product": "TV units",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary TV units design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__console-tables.png",
+      "category": "Living Room",
+      "product": "Console tables",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary Console tables design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__coffee-tables.png",
+      "category": "Living Room",
+      "product": "Coffee tables",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary Coffee tables design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__side-end-tables.png",
+      "category": "Living Room",
+      "product": "Side/end tables",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary Side/end tables design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__nesting-tables.png",
+      "category": "Living Room",
+      "product": "Nesting tables",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary Nesting tables design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__bookshelves.png",
+      "category": "Living Room",
+      "product": "Bookshelves",
+      "prompt": "Use case: product-mockup. Create ONE SQUARE image, a strict 2x2 contact sheet with FOUR equal square edge-to-edge photograph quadrants, no gutters, borders, labels or text. Subject: one specific premium contemporary Bookshelves design for the Living Room furniture category. Same exact furniture design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: close macro of functional construction, joint or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Realistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this furniture type, refined practical manufacturable design. No unrelated product substitution. Beautiful soft daylight, true photographic material detail. Absolutely no text, no watermark, no people. Square 1:1 canvas, quadrant seam exactly at 50% width and 50% height."
+    },
+    {
+      "filename": "living-room__accent-chairs.png",
+      "category": "Living Room",
+      "product": "Accent chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Accent chairs design for the Living Room furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "living-room__ottomans.png",
+      "category": "Living Room",
+      "product": "Ottomans",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Ottomans design for the Living Room furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "living-room__display-units.png",
+      "category": "Living Room",
+      "product": "Display units",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Display units design for the Living Room furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "living-room__shoe-cabinets.png",
+      "category": "Living Room",
+      "product": "Shoe cabinets",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Shoe cabinets design for the Living Room furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "living-room__sofas.png",
+      "category": "Living Room",
+      "product": "Sofas",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Sofas design for the Living Room furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Living Room interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__beds.png",
+      "category": "Bedroom",
+      "product": "Beds",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Beds design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__chests-of-drawers.png",
+      "category": "Bedroom",
+      "product": "Chests of drawers",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Chests of drawers design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__dressing-vanity-tables.png",
+      "category": "Bedroom",
+      "product": "Dressing/vanity tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dressing/vanity tables design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__beds-with-storage.png",
+      "category": "Bedroom",
+      "product": "Beds with storage",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Beds with storage design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__wardrobes.png",
+      "category": "Bedroom",
+      "product": "Wardrobes",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Wardrobes design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__bedside-tables.png",
+      "category": "Bedroom",
+      "product": "Bedside tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bedside tables design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__dressing-mirrors.png",
+      "category": "Bedroom",
+      "product": "Dressing mirrors",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dressing mirrors design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__dining-chairs.png",
+      "category": "Dining",
+      "product": "Dining chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dining chairs design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__dining-benches.png",
+      "category": "Dining",
+      "product": "Dining benches",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dining benches design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__foldable-dining-tables.png",
+      "category": "Dining",
+      "product": "Foldable dining tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Foldable dining tables design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__extendable-dining-tables.png",
+      "category": "Dining",
+      "product": "Extendable dining tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Extendable dining tables design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__bar-tables.png",
+      "category": "Dining",
+      "product": "Bar tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bar tables design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__bar-stools.png",
+      "category": "Dining",
+      "product": "Bar stools",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bar stools design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__sideboards.png",
+      "category": "Dining",
+      "product": "Sideboards",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Sideboards design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__crockery-cabinets.png",
+      "category": "Dining",
+      "product": "Crockery cabinets",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Crockery cabinets design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__bedroom-benches.png",
+      "category": "Bedroom",
+      "product": "Bedroom benches",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bedroom benches design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "dining__dining-tables.png",
+      "category": "Dining",
+      "product": "Dining tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dining tables design for the Dining furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Dining interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "bedroom__study-tables.png",
+      "category": "Bedroom",
+      "product": "Study tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Study tables design for the Bedroom furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Bedroom interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__work-desks.png",
+      "category": "Office",
+      "product": "Work desks",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Work desks design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__meeting-conference-tables.png",
+      "category": "Office",
+      "product": "Meeting/conference tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Meeting/conference tables design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__reception-desks.png",
+      "category": "Office",
+      "product": "Reception desks",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Reception desks design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__reception-seating.png",
+      "category": "Office",
+      "product": "Reception seating",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Reception seating design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__filing-cabinets.png",
+      "category": "Office",
+      "product": "Filing cabinets",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Filing cabinets design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__office-storage-units.png",
+      "category": "Office",
+      "product": "Office storage units",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Office storage units design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__bookcases.png",
+      "category": "Office",
+      "product": "Bookcases",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bookcases design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__mobile-drawer-pedestals.png",
+      "category": "Office",
+      "product": "Mobile drawer pedestals",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Mobile drawer pedestals design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__school-desks-and-benches.png",
+      "category": "Institutional",
+      "product": "School desks and benches",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary School desks and benches design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__modular-workstations.png",
+      "category": "Office",
+      "product": "Modular workstations",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Modular workstations design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__executive-desks.png",
+      "category": "Office",
+      "product": "Executive desks",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Executive desks design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "office__office-chairs.png",
+      "category": "Office",
+      "product": "Office chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Office chairs design for the Office furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Office interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__classroom-chairs.png",
+      "category": "Institutional",
+      "product": "Classroom chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Classroom chairs design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__college-classroom-desks.png",
+      "category": "Institutional",
+      "product": "College classroom desks",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary College classroom desks design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__training-tables.png",
+      "category": "Institutional",
+      "product": "Training tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Training tables design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__lecture-chairs-with-writing-pads.png",
+      "category": "Institutional",
+      "product": "Lecture chairs with writing pads",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Lecture chairs with writing pads design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__library-tables.png",
+      "category": "Institutional",
+      "product": "Library tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Library tables design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__library-chairs.png",
+      "category": "Institutional",
+      "product": "Library chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Library chairs design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__library-bookshelves.png",
+      "category": "Institutional",
+      "product": "Library bookshelves",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Library bookshelves design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__computer-lab-tables.png",
+      "category": "Institutional",
+      "product": "Computer lab tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Computer lab tables design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__laboratory-workbenches.png",
+      "category": "Institutional",
+      "product": "Laboratory workbenches",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Laboratory workbenches design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__student-lockers.png",
+      "category": "Institutional",
+      "product": "Student lockers",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Student lockers design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__teacher-tables-and-chairs.png",
+      "category": "Institutional",
+      "product": "Teacher tables and chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Teacher tables and chairs design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__preschool-tables-and-chairs.png",
+      "category": "Institutional",
+      "product": "Preschool tables and chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Preschool tables and chairs design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__hostel-beds.png",
+      "category": "Institutional",
+      "product": "Hostel beds",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hostel beds design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__canteen-tables-and-benches.png",
+      "category": "Institutional",
+      "product": "Canteen tables and benches",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Canteen tables and benches design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__restaurant-and-cafe-tables.png",
+      "category": "Hospitality & Commercial",
+      "product": "Restaurant and cafe tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Restaurant and cafe tables design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__dining-chairs.png",
+      "category": "Hospitality & Commercial",
+      "product": "Dining chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Dining chairs design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__bar-counters.png",
+      "category": "Hospitality & Commercial",
+      "product": "Bar counters",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bar counters design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__bar-stools.png",
+      "category": "Hospitality & Commercial",
+      "product": "Bar stools",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bar stools design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__booth-seating.png",
+      "category": "Hospitality & Commercial",
+      "product": "Booth seating",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Booth seating design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__hotel-beds.png",
+      "category": "Hospitality & Commercial",
+      "product": "Hotel beds",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hotel beds design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__hotel-headboards.png",
+      "category": "Hospitality & Commercial",
+      "product": "Hotel headboards",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hotel headboards design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__hostel-bunk-beds.png",
+      "category": "Institutional",
+      "product": "Hostel bunk beds",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hostel bunk beds design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__hostel-wardrobes.png",
+      "category": "Institutional",
+      "product": "Hostel wardrobes",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hostel wardrobes design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "institutional__hostel-study-tables.png",
+      "category": "Institutional",
+      "product": "Hostel study tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hostel study tables design for the Institutional furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Institutional interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__bedside-tables.png",
+      "category": "Hospitality & Commercial",
+      "product": "Bedside tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Bedside tables design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__reception-counters.png",
+      "category": "Hospitality & Commercial",
+      "product": "Reception counters",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Reception counters design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__outdoor-tables.png",
+      "category": "Hospitality & Commercial",
+      "product": "Outdoor tables",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Outdoor tables design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__outdoor-chairs.png",
+      "category": "Hospitality & Commercial",
+      "product": "Outdoor chairs",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Outdoor chairs design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__retail-display-units.png",
+      "category": "Hospitality & Commercial",
+      "product": "Retail display units",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Retail display units design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__luggage-racks.png",
+      "category": "Hospitality & Commercial",
+      "product": "Luggage racks",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Luggage racks design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__hotel-wardrobes.png",
+      "category": "Hospitality & Commercial",
+      "product": "Hotel wardrobes",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Hotel wardrobes design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__lobby-seating.png",
+      "category": "Hospitality & Commercial",
+      "product": "Lobby seating",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Lobby seating design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    },
+    {
+      "filename": "hospitality-commercial__checkout-counters.png",
+      "category": "Hospitality & Commercial",
+      "product": "Checkout counters",
+      "prompt": "Use case: product-mockup. ONE SQUARE 1:1 image containing a strict 2x2 contact sheet of FOUR equal square edge-to-edge photographs, seams exactly at 50% width and height. No gutters, borders, labels or text. Subject: one specific premium contemporary Checkout counters design for the Hospitality & Commercial furniture category. Same exact design, materials, proportions and features in all four views. Top left: complete item studio front three-quarter view centered on warm cream background. Top right: complete item alternate rear/side angle. Bottom left: macro of functional construction joint, hardware or material detail. Bottom right: same item in an appropriate elegant Hospitality & Commercial interior. Photorealistic premium walnut and charcoal steel or charcoal upholstery as appropriate to this specific furniture type. Refined practical manufacturable design, category-specific features. Soft daylight, realistic material detail. Absolutely no text, watermark or people."
+    }
+  ]
+}

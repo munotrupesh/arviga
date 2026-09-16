@@ -1,0 +1,386 @@
+[
+  {
+    "url": "/",
+    "title": "ARVIGA | Furniture & Precision Manufacturing"
+  },
+  {
+    "url": "/products/",
+    "title": "Furniture Collections | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/",
+    "title": "Living Room Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/coffee-tables/",
+    "title": "Coffee tables for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/side-end-tables/",
+    "title": "Side/end tables for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/nesting-tables/",
+    "title": "Nesting tables for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/tv-units/",
+    "title": "TV units for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/console-tables/",
+    "title": "Console tables for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/bookshelves/",
+    "title": "Bookshelves for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/display-units/",
+    "title": "Display units for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/shoe-cabinets/",
+    "title": "Shoe cabinets for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/sofas/",
+    "title": "Sofas for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/accent-chairs/",
+    "title": "Accent chairs for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/living-room/ottomans/",
+    "title": "Ottomans for Living Room | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/",
+    "title": "Bedroom Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/beds/",
+    "title": "Beds for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/beds-with-storage/",
+    "title": "Beds with storage for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/bedside-tables/",
+    "title": "Bedside tables for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/wardrobes/",
+    "title": "Wardrobes for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/chests-of-drawers/",
+    "title": "Chests of drawers for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/dressing-vanity-tables/",
+    "title": "Dressing/vanity tables for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/dressing-mirrors/",
+    "title": "Dressing mirrors for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/bedroom-benches/",
+    "title": "Bedroom benches for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/bedroom/study-tables/",
+    "title": "Study tables for Bedroom | ARVIGA"
+  },
+  {
+    "url": "/products/dining/",
+    "title": "Dining Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/dining/dining-tables/",
+    "title": "Dining tables for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/dining-chairs/",
+    "title": "Dining chairs for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/dining-benches/",
+    "title": "Dining benches for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/foldable-dining-tables/",
+    "title": "Foldable dining tables for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/extendable-dining-tables/",
+    "title": "Extendable dining tables for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/bar-tables/",
+    "title": "Bar tables for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/bar-stools/",
+    "title": "Bar stools for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/sideboards/",
+    "title": "Sideboards for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/dining/crockery-cabinets/",
+    "title": "Crockery cabinets for Dining | ARVIGA"
+  },
+  {
+    "url": "/products/office/",
+    "title": "Office Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/office/work-desks/",
+    "title": "Work desks for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/modular-workstations/",
+    "title": "Modular workstations for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/executive-desks/",
+    "title": "Executive desks for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/office-chairs/",
+    "title": "Office chairs for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/meeting-conference-tables/",
+    "title": "Meeting/conference tables for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/reception-desks/",
+    "title": "Reception desks for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/reception-seating/",
+    "title": "Reception seating for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/filing-cabinets/",
+    "title": "Filing cabinets for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/office-storage-units/",
+    "title": "Office storage units for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/bookcases/",
+    "title": "Bookcases for Office | ARVIGA"
+  },
+  {
+    "url": "/products/office/mobile-drawer-pedestals/",
+    "title": "Mobile drawer pedestals for Office | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/",
+    "title": "Institutional Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/school-desks-and-benches/",
+    "title": "School desks and benches for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/classroom-chairs/",
+    "title": "Classroom chairs for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/teacher-tables-and-chairs/",
+    "title": "Teacher tables and chairs for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/preschool-tables-and-chairs/",
+    "title": "Preschool tables and chairs for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/college-classroom-desks/",
+    "title": "College classroom desks for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/training-tables/",
+    "title": "Training tables for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/lecture-chairs-with-writing-pads/",
+    "title": "Lecture chairs with writing pads for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/library-tables/",
+    "title": "Library tables for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/library-chairs/",
+    "title": "Library chairs for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/library-bookshelves/",
+    "title": "Library bookshelves for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/computer-lab-tables/",
+    "title": "Computer lab tables for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/laboratory-workbenches/",
+    "title": "Laboratory workbenches for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/student-lockers/",
+    "title": "Student lockers for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/hostel-beds/",
+    "title": "Hostel beds for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/hostel-bunk-beds/",
+    "title": "Hostel bunk beds for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/hostel-wardrobes/",
+    "title": "Hostel wardrobes for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/hostel-study-tables/",
+    "title": "Hostel study tables for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/institutional/canteen-tables-and-benches/",
+    "title": "Canteen tables and benches for Institutional | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/",
+    "title": "Hospitality & Commercial Furniture | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/restaurant-and-cafe-tables/",
+    "title": "Restaurant and cafe tables for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/dining-chairs/",
+    "title": "Dining chairs for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/bar-counters/",
+    "title": "Bar counters for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/bar-stools/",
+    "title": "Bar stools for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/booth-seating/",
+    "title": "Booth seating for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/hotel-beds/",
+    "title": "Hotel beds for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/hotel-headboards/",
+    "title": "Hotel headboards for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/bedside-tables/",
+    "title": "Bedside tables for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/luggage-racks/",
+    "title": "Luggage racks for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/hotel-wardrobes/",
+    "title": "Hotel wardrobes for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/lobby-seating/",
+    "title": "Lobby seating for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/reception-counters/",
+    "title": "Reception counters for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/outdoor-tables/",
+    "title": "Outdoor tables for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/outdoor-chairs/",
+    "title": "Outdoor chairs for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/retail-display-units/",
+    "title": "Retail display units for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/products/hospitality-commercial/checkout-counters/",
+    "title": "Checkout counters for Hospitality & Commercial | ARVIGA"
+  },
+  {
+    "url": "/services/",
+    "title": "Engineering & Manufacturing Services | ARVIGA"
+  },
+  {
+    "url": "/services/mechanical-design-engineering/",
+    "title": "Mechanical Design & Engineering Services | ARVIGA"
+  },
+  {
+    "url": "/services/sheet-metal-fabrication/",
+    "title": "Sheet Metal Fabrication Services | ARVIGA"
+  },
+  {
+    "url": "/services/precision-machining/",
+    "title": "Precision Machining Services | ARVIGA"
+  },
+  {
+    "url": "/services/product-manufacturing/",
+    "title": "Product Manufacturing Services | ARVIGA"
+  },
+  {
+    "url": "/services/surface-treatment-finishing/",
+    "title": "Surface Treatment & Finishing Services | ARVIGA"
+  },
+  {
+    "url": "/services/welding-fabrication/",
+    "title": "Welding & Fabrication Services | ARVIGA"
+  },
+  {
+    "url": "/services/quality-inspection/",
+    "title": "Quality & Inspection Services | ARVIGA"
+  },
+  {
+    "url": "/services/assembly-integration/",
+    "title": "Assembly & Integration Services | ARVIGA"
+  },
+  {
+    "url": "/services/project-manufacturing-solutions/",
+    "title": "Project & Manufacturing Solutions Services | ARVIGA"
+  },
+  {
+    "url": "/about/",
+    "title": "About ARVIGA | Crafted Furniture & Considered Engineering"
+  },
+  {
+    "url": "/contact/",
+    "title": "Contact ARVIGA | Product & Manufacturing Enquiries"
+  },
+  {
+    "url": "/privacy/",
+    "title": "Privacy Information | ARVIGA"
+  },
+  {
+    "url": "/404.html",
+    "title": "Page Not Found | ARVIGA"
+  }
+]

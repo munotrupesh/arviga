@@ -1,0 +1,334 @@
+[
+  {
+    "name": "Living Room",
+    "slug": "living-room",
+    "products": [
+      {
+        "name": "Coffee tables",
+        "slug": "coffee-tables"
+      },
+      {
+        "name": "Side/end tables",
+        "slug": "side-end-tables"
+      },
+      {
+        "name": "Nesting tables",
+        "slug": "nesting-tables"
+      },
+      {
+        "name": "TV units",
+        "slug": "tv-units"
+      },
+      {
+        "name": "Console tables",
+        "slug": "console-tables"
+      },
+      {
+        "name": "Bookshelves",
+        "slug": "bookshelves"
+      },
+      {
+        "name": "Display units",
+        "slug": "display-units"
+      },
+      {
+        "name": "Shoe cabinets",
+        "slug": "shoe-cabinets"
+      },
+      {
+        "name": "Sofas",
+        "slug": "sofas"
+      },
+      {
+        "name": "Accent chairs",
+        "slug": "accent-chairs"
+      },
+      {
+        "name": "Ottomans",
+        "slug": "ottomans"
+      }
+    ]
+  },
+  {
+    "name": "Bedroom",
+    "slug": "bedroom",
+    "products": [
+      {
+        "name": "Beds",
+        "slug": "beds"
+      },
+      {
+        "name": "Beds with storage",
+        "slug": "beds-with-storage"
+      },
+      {
+        "name": "Bedside tables",
+        "slug": "bedside-tables"
+      },
+      {
+        "name": "Wardrobes",
+        "slug": "wardrobes"
+      },
+      {
+        "name": "Chests of drawers",
+        "slug": "chests-of-drawers"
+      },
+      {
+        "name": "Dressing/vanity tables",
+        "slug": "dressing-vanity-tables"
+      },
+      {
+        "name": "Dressing mirrors",
+        "slug": "dressing-mirrors"
+      },
+      {
+        "name": "Bedroom benches",
+        "slug": "bedroom-benches"
+      },
+      {
+        "name": "Study tables",
+        "slug": "study-tables"
+      }
+    ]
+  },
+  {
+    "name": "Dining",
+    "slug": "dining",
+    "products": [
+      {
+        "name": "Dining tables",
+        "slug": "dining-tables"
+      },
+      {
+        "name": "Dining chairs",
+        "slug": "dining-chairs"
+      },
+      {
+        "name": "Dining benches",
+        "slug": "dining-benches"
+      },
+      {
+        "name": "Foldable dining tables",
+        "slug": "foldable-dining-tables"
+      },
+      {
+        "name": "Extendable dining tables",
+        "slug": "extendable-dining-tables"
+      },
+      {
+        "name": "Bar tables",
+        "slug": "bar-tables"
+      },
+      {
+        "name": "Bar stools",
+        "slug": "bar-stools"
+      },
+      {
+        "name": "Sideboards",
+        "slug": "sideboards"
+      },
+      {
+        "name": "Crockery cabinets",
+        "slug": "crockery-cabinets"
+      }
+    ]
+  },
+  {
+    "name": "Office",
+    "slug": "office",
+    "products": [
+      {
+        "name": "Work desks",
+        "slug": "work-desks"
+      },
+      {
+        "name": "Modular workstations",
+        "slug": "modular-workstations"
+      },
+      {
+        "name": "Executive desks",
+        "slug": "executive-desks"
+      },
+      {
+        "name": "Office chairs",
+        "slug": "office-chairs"
+      },
+      {
+        "name": "Meeting/conference tables",
+        "slug": "meeting-conference-tables"
+      },
+      {
+        "name": "Reception desks",
+        "slug": "reception-desks"
+      },
+      {
+        "name": "Reception seating",
+        "slug": "reception-seating"
+      },
+      {
+        "name": "Filing cabinets",
+        "slug": "filing-cabinets"
+      },
+      {
+        "name": "Office storage units",
+        "slug": "office-storage-units"
+      },
+      {
+        "name": "Bookcases",
+        "slug": "bookcases"
+      },
+      {
+        "name": "Mobile drawer pedestals",
+        "slug": "mobile-drawer-pedestals"
+      }
+    ]
+  },
+  {
+    "name": "Institutional",
+    "slug": "institutional",
+    "products": [
+      {
+        "name": "School desks and benches",
+        "slug": "school-desks-and-benches"
+      },
+      {
+        "name": "Classroom chairs",
+        "slug": "classroom-chairs"
+      },
+      {
+        "name": "Teacher tables and chairs",
+        "slug": "teacher-tables-and-chairs"
+      },
+      {
+        "name": "Preschool tables and chairs",
+        "slug": "preschool-tables-and-chairs"
+      },
+      {
+        "name": "College classroom desks",
+        "slug": "college-classroom-desks"
+      },
+      {
+        "name": "Training tables",
+        "slug": "training-tables"
+      },
+      {
+        "name": "Lecture chairs with writing pads",
+        "slug": "lecture-chairs-with-writing-pads"
+      },
+      {
+        "name": "Library tables",
+        "slug": "library-tables"
+      },
+      {
+        "name": "Library chairs",
+        "slug": "library-chairs"
+      },
+      {
+        "name": "Library bookshelves",
+        "slug": "library-bookshelves"
+      },
+      {
+        "name": "Computer lab tables",
+        "slug": "computer-lab-tables"
+      },
+      {
+        "name": "Laboratory workbenches",
+        "slug": "laboratory-workbenches"
+      },
+      {
+        "name": "Student lockers",
+        "slug": "student-lockers"
+      },
+      {
+        "name": "Hostel beds",
+        "slug": "hostel-beds"
+      },
+      {
+        "name": "Hostel bunk beds",
+        "slug": "hostel-bunk-beds"
+      },
+      {
+        "name": "Hostel wardrobes",
+        "slug": "hostel-wardrobes"
+      },
+      {
+        "name": "Hostel study tables",
+        "slug": "hostel-study-tables"
+      },
+      {
+        "name": "Canteen tables and benches",
+        "slug": "canteen-tables-and-benches"
+      }
+    ]
+  },
+  {
+    "name": "Hospitality & Commercial",
+    "slug": "hospitality-commercial",
+    "products": [
+      {
+        "name": "Restaurant and cafe tables",
+        "slug": "restaurant-and-cafe-tables"
+      },
+      {
+        "name": "Dining chairs",
+        "slug": "dining-chairs"
+      },
+      {
+        "name": "Bar counters",
+        "slug": "bar-counters"
+      },
+      {
+        "name": "Bar stools",
+        "slug": "bar-stools"
+      },
+      {
+        "name": "Booth seating",
+        "slug": "booth-seating"
+      },
+      {
+        "name": "Hotel beds",
+        "slug": "hotel-beds"
+      },
+      {
+        "name": "Hotel headboards",
+        "slug": "hotel-headboards"
+      },
+      {
+        "name": "Bedside tables",
+        "slug": "bedside-tables"
+      },
+      {
+        "name": "Luggage racks",
+        "slug": "luggage-racks"
+      },
+      {
+        "name": "Hotel wardrobes",
+        "slug": "hotel-wardrobes"
+      },
+      {
+        "name": "Lobby seating",
+        "slug": "lobby-seating"
+      },
+      {
+        "name": "Reception counters",
+        "slug": "reception-counters"
+      },
+      {
+        "name": "Outdoor tables",
+        "slug": "outdoor-tables"
+      },
+      {
+        "name": "Outdoor chairs",
+        "slug": "outdoor-chairs"
+      },
+      {
+        "name": "Retail display units",
+        "slug": "retail-display-units"
+      },
+      {
+        "name": "Checkout counters",
+        "slug": "checkout-counters"
+      }
+    ]
+  }
+]
