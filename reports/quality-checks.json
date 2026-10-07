@@ -1,0 +1,23 @@
+{
+  "responsiveImages": 85,
+  "pageCount": 96,
+  "contrast": [
+    {
+      "label": "Body",
+      "ratio": 15.78
+    },
+    {
+      "label": "Secondary text",
+      "ratio": 6.23
+    },
+    {
+      "label": "Primary button",
+      "ratio": 10.02
+    },
+    {
+      "label": "Accent button",
+      "ratio": 13.03
+    }
+  ],
+  "previewIndexingDisabled": true
+}

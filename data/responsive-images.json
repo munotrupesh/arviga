@@ -1,0 +1,1447 @@
+{
+  "/assets/hero.webp": [
+    {
+      "src": "/assets/responsive/hero-640.webp",
+      "width": 640,
+      "bytes": 44900
+    },
+    {
+      "src": "/assets/responsive/hero-960.webp",
+      "width": 960,
+      "bytes": 89776
+    },
+    {
+      "src": "/assets/hero.webp",
+      "width": 1672,
+      "bytes": 301036
+    }
+  ],
+  "/assets/engineering.webp": [
+    {
+      "src": "/assets/responsive/engineering-640.webp",
+      "width": 640,
+      "bytes": 25346
+    },
+    {
+      "src": "/assets/responsive/engineering-960.webp",
+      "width": 960,
+      "bytes": 47134
+    },
+    {
+      "src": "/assets/engineering.webp",
+      "width": 1672,
+      "bytes": 154526
+    }
+  ],
+  "/assets/products/bedroom__bedroom-benches.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__bedroom-benches-640.webp",
+      "width": 640,
+      "bytes": 42200
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__bedroom-benches-960.webp",
+      "width": 960,
+      "bytes": 89768
+    },
+    {
+      "src": "/assets/products/bedroom__bedroom-benches.webp",
+      "width": 1254,
+      "bytes": 192164
+    }
+  ],
+  "/assets/products/bedroom__beds-with-storage.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__beds-with-storage-640.webp",
+      "width": 640,
+      "bytes": 41970
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__beds-with-storage-960.webp",
+      "width": 960,
+      "bytes": 86774
+    },
+    {
+      "src": "/assets/products/bedroom__beds-with-storage.webp",
+      "width": 1254,
+      "bytes": 194960
+    }
+  ],
+  "/assets/products/bedroom__beds.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__beds-640.webp",
+      "width": 640,
+      "bytes": 36950
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__beds-960.webp",
+      "width": 960,
+      "bytes": 79438
+    },
+    {
+      "src": "/assets/products/bedroom__beds.webp",
+      "width": 1254,
+      "bytes": 182314
+    }
+  ],
+  "/assets/products/bedroom__bedside-tables.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__bedside-tables-640.webp",
+      "width": 640,
+      "bytes": 30794
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__bedside-tables-960.webp",
+      "width": 960,
+      "bytes": 61382
+    },
+    {
+      "src": "/assets/products/bedroom__bedside-tables.webp",
+      "width": 1254,
+      "bytes": 135286
+    }
+  ],
+  "/assets/products/bedroom__chests-of-drawers.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__chests-of-drawers-640.webp",
+      "width": 640,
+      "bytes": 36290
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__chests-of-drawers-960.webp",
+      "width": 960,
+      "bytes": 73006
+    },
+    {
+      "src": "/assets/products/bedroom__chests-of-drawers.webp",
+      "width": 1254,
+      "bytes": 162250
+    }
+  ],
+  "/assets/products/bedroom__dressing-mirrors.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__dressing-mirrors-640.webp",
+      "width": 640,
+      "bytes": 30206
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__dressing-mirrors-960.webp",
+      "width": 960,
+      "bytes": 59382
+    },
+    {
+      "src": "/assets/products/bedroom__dressing-mirrors.webp",
+      "width": 1254,
+      "bytes": 124184
+    }
+  ],
+  "/assets/products/bedroom__dressing-vanity-tables.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__dressing-vanity-tables-640.webp",
+      "width": 640,
+      "bytes": 35310
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__dressing-vanity-tables-960.webp",
+      "width": 960,
+      "bytes": 67084
+    },
+    {
+      "src": "/assets/products/bedroom__dressing-vanity-tables.webp",
+      "width": 1254,
+      "bytes": 141602
+    }
+  ],
+  "/assets/products/bedroom__study-tables.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__study-tables-640.webp",
+      "width": 640,
+      "bytes": 30730
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__study-tables-960.webp",
+      "width": 960,
+      "bytes": 60500
+    },
+    {
+      "src": "/assets/products/bedroom__study-tables.webp",
+      "width": 1254,
+      "bytes": 131148
+    }
+  ],
+  "/assets/products/bedroom__wardrobes.webp": [
+    {
+      "src": "/assets/responsive/products--bedroom__wardrobes-640.webp",
+      "width": 640,
+      "bytes": 26860
+    },
+    {
+      "src": "/assets/responsive/products--bedroom__wardrobes-960.webp",
+      "width": 960,
+      "bytes": 54532
+    },
+    {
+      "src": "/assets/products/bedroom__wardrobes.webp",
+      "width": 1254,
+      "bytes": 128312
+    }
+  ],
+  "/assets/products/dining__bar-stools.webp": [
+    {
+      "src": "/assets/responsive/products--dining__bar-stools-640.webp",
+      "width": 640,
+      "bytes": 35046
+    },
+    {
+      "src": "/assets/responsive/products--dining__bar-stools-960.webp",
+      "width": 960,
+      "bytes": 67076
+    },
+    {
+      "src": "/assets/products/dining__bar-stools.webp",
+      "width": 1254,
+      "bytes": 138254
+    }
+  ],
+  "/assets/products/dining__bar-tables.webp": [
+    {
+      "src": "/assets/responsive/products--dining__bar-tables-640.webp",
+      "width": 640,
+      "bytes": 36712
+    },
+    {
+      "src": "/assets/responsive/products--dining__bar-tables-960.webp",
+      "width": 960,
+      "bytes": 72138
+    },
+    {
+      "src": "/assets/products/dining__bar-tables.webp",
+      "width": 1254,
+      "bytes": 148006
+    }
+  ],
+  "/assets/products/dining__crockery-cabinets.webp": [
+    {
+      "src": "/assets/responsive/products--dining__crockery-cabinets-640.webp",
+      "width": 640,
+      "bytes": 35186
+    },
+    {
+      "src": "/assets/responsive/products--dining__crockery-cabinets-960.webp",
+      "width": 960,
+      "bytes": 70040
+    },
+    {
+      "src": "/assets/products/dining__crockery-cabinets.webp",
+      "width": 1254,
+      "bytes": 155792
+    }
+  ],
+  "/assets/products/dining__dining-benches.webp": [
+    {
+      "src": "/assets/responsive/products--dining__dining-benches-640.webp",
+      "width": 640,
+      "bytes": 30792
+    },
+    {
+      "src": "/assets/responsive/products--dining__dining-benches-960.webp",
+      "width": 960,
+      "bytes": 62398
+    },
+    {
+      "src": "/assets/products/dining__dining-benches.webp",
+      "width": 1254,
+      "bytes": 131988
+    }
+  ],
+  "/assets/products/dining__dining-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--dining__dining-chairs-640.webp",
+      "width": 640,
+      "bytes": 36376
+    },
+    {
+      "src": "/assets/responsive/products--dining__dining-chairs-960.webp",
+      "width": 960,
+      "bytes": 74196
+    },
+    {
+      "src": "/assets/products/dining__dining-chairs.webp",
+      "width": 1254,
+      "bytes": 155030
+    }
+  ],
+  "/assets/products/dining__dining-tables.webp": [
+    {
+      "src": "/assets/responsive/products--dining__dining-tables-640.webp",
+      "width": 640,
+      "bytes": 35178
+    },
+    {
+      "src": "/assets/responsive/products--dining__dining-tables-960.webp",
+      "width": 960,
+      "bytes": 73432
+    },
+    {
+      "src": "/assets/products/dining__dining-tables.webp",
+      "width": 1254,
+      "bytes": 160116
+    }
+  ],
+  "/assets/products/dining__extendable-dining-tables.webp": [
+    {
+      "src": "/assets/responsive/products--dining__extendable-dining-tables-640.webp",
+      "width": 640,
+      "bytes": 33330
+    },
+    {
+      "src": "/assets/responsive/products--dining__extendable-dining-tables-960.webp",
+      "width": 960,
+      "bytes": 67292
+    },
+    {
+      "src": "/assets/products/dining__extendable-dining-tables.webp",
+      "width": 1254,
+      "bytes": 139906
+    }
+  ],
+  "/assets/products/dining__foldable-dining-tables.webp": [
+    {
+      "src": "/assets/responsive/products--dining__foldable-dining-tables-640.webp",
+      "width": 640,
+      "bytes": 36504
+    },
+    {
+      "src": "/assets/responsive/products--dining__foldable-dining-tables-960.webp",
+      "width": 960,
+      "bytes": 69994
+    },
+    {
+      "src": "/assets/products/dining__foldable-dining-tables.webp",
+      "width": 1254,
+      "bytes": 145522
+    }
+  ],
+  "/assets/products/dining__sideboards.webp": [
+    {
+      "src": "/assets/responsive/products--dining__sideboards-640.webp",
+      "width": 640,
+      "bytes": 35216
+    },
+    {
+      "src": "/assets/responsive/products--dining__sideboards-960.webp",
+      "width": 960,
+      "bytes": 72010
+    },
+    {
+      "src": "/assets/products/dining__sideboards.webp",
+      "width": 1254,
+      "bytes": 157176
+    }
+  ],
+  "/assets/products/hospitality-commercial__bar-counters.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bar-counters-640.webp",
+      "width": 640,
+      "bytes": 36896
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bar-counters-960.webp",
+      "width": 960,
+      "bytes": 71058
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__bar-counters.webp",
+      "width": 1254,
+      "bytes": 144800
+    }
+  ],
+  "/assets/products/hospitality-commercial__bar-stools.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bar-stools-640.webp",
+      "width": 640,
+      "bytes": 37696
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bar-stools-960.webp",
+      "width": 960,
+      "bytes": 70782
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__bar-stools.webp",
+      "width": 1254,
+      "bytes": 141052
+    }
+  ],
+  "/assets/products/hospitality-commercial__bedside-tables.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bedside-tables-640.webp",
+      "width": 640,
+      "bytes": 32244
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__bedside-tables-960.webp",
+      "width": 960,
+      "bytes": 63174
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__bedside-tables.webp",
+      "width": 1254,
+      "bytes": 137240
+    }
+  ],
+  "/assets/products/hospitality-commercial__booth-seating.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__booth-seating-640.webp",
+      "width": 640,
+      "bytes": 34828
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__booth-seating-960.webp",
+      "width": 960,
+      "bytes": 70130
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__booth-seating.webp",
+      "width": 1254,
+      "bytes": 156504
+    }
+  ],
+  "/assets/products/hospitality-commercial__checkout-counters.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__checkout-counters-640.webp",
+      "width": 640,
+      "bytes": 33840
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__checkout-counters-960.webp",
+      "width": 960,
+      "bytes": 68048
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__checkout-counters.webp",
+      "width": 1254,
+      "bytes": 150126
+    }
+  ],
+  "/assets/products/hospitality-commercial__dining-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__dining-chairs-640.webp",
+      "width": 640,
+      "bytes": 35702
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__dining-chairs-960.webp",
+      "width": 960,
+      "bytes": 67348
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__dining-chairs.webp",
+      "width": 1254,
+      "bytes": 138164
+    }
+  ],
+  "/assets/products/hospitality-commercial__hotel-beds.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-beds-640.webp",
+      "width": 640,
+      "bytes": 34954
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-beds-960.webp",
+      "width": 960,
+      "bytes": 79744
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__hotel-beds.webp",
+      "width": 1254,
+      "bytes": 180588
+    }
+  ],
+  "/assets/products/hospitality-commercial__hotel-headboards.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-headboards-640.webp",
+      "width": 640,
+      "bytes": 35210
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-headboards-960.webp",
+      "width": 960,
+      "bytes": 77882
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__hotel-headboards.webp",
+      "width": 1254,
+      "bytes": 189516
+    }
+  ],
+  "/assets/products/hospitality-commercial__hotel-wardrobes.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-wardrobes-640.webp",
+      "width": 640,
+      "bytes": 26660
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__hotel-wardrobes-960.webp",
+      "width": 960,
+      "bytes": 53416
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__hotel-wardrobes.webp",
+      "width": 1254,
+      "bytes": 124424
+    }
+  ],
+  "/assets/products/hospitality-commercial__lobby-seating.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__lobby-seating-640.webp",
+      "width": 640,
+      "bytes": 46522
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__lobby-seating-960.webp",
+      "width": 960,
+      "bytes": 87352
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__lobby-seating.webp",
+      "width": 1254,
+      "bytes": 176770
+    }
+  ],
+  "/assets/products/hospitality-commercial__luggage-racks.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__luggage-racks-640.webp",
+      "width": 640,
+      "bytes": 37870
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__luggage-racks-960.webp",
+      "width": 960,
+      "bytes": 69682
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__luggage-racks.webp",
+      "width": 1254,
+      "bytes": 141340
+    }
+  ],
+  "/assets/products/hospitality-commercial__outdoor-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__outdoor-chairs-640.webp",
+      "width": 640,
+      "bytes": 47396
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__outdoor-chairs-960.webp",
+      "width": 960,
+      "bytes": 94466
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__outdoor-chairs.webp",
+      "width": 1254,
+      "bytes": 190840
+    }
+  ],
+  "/assets/products/hospitality-commercial__outdoor-tables.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__outdoor-tables-640.webp",
+      "width": 640,
+      "bytes": 37920
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__outdoor-tables-960.webp",
+      "width": 960,
+      "bytes": 72988
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__outdoor-tables.webp",
+      "width": 1254,
+      "bytes": 150186
+    }
+  ],
+  "/assets/products/hospitality-commercial__reception-counters.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__reception-counters-640.webp",
+      "width": 640,
+      "bytes": 28394
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__reception-counters-960.webp",
+      "width": 960,
+      "bytes": 54650
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__reception-counters.webp",
+      "width": 1254,
+      "bytes": 119294
+    }
+  ],
+  "/assets/products/hospitality-commercial__restaurant-and-cafe-tables.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__restaurant-and-cafe-tables-640.webp",
+      "width": 640,
+      "bytes": 38052
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__restaurant-and-cafe-tables-960.webp",
+      "width": 960,
+      "bytes": 72398
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__restaurant-and-cafe-tables.webp",
+      "width": 1254,
+      "bytes": 153164
+    }
+  ],
+  "/assets/products/hospitality-commercial__retail-display-units.webp": [
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__retail-display-units-640.webp",
+      "width": 640,
+      "bytes": 40684
+    },
+    {
+      "src": "/assets/responsive/products--hospitality-commercial__retail-display-units-960.webp",
+      "width": 960,
+      "bytes": 76834
+    },
+    {
+      "src": "/assets/products/hospitality-commercial__retail-display-units.webp",
+      "width": 1254,
+      "bytes": 156550
+    }
+  ],
+  "/assets/products/institutional__canteen-tables-and-benches.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__canteen-tables-and-benches-640.webp",
+      "width": 640,
+      "bytes": 34134
+    },
+    {
+      "src": "/assets/responsive/products--institutional__canteen-tables-and-benches-960.webp",
+      "width": 960,
+      "bytes": 62344
+    },
+    {
+      "src": "/assets/products/institutional__canteen-tables-and-benches.webp",
+      "width": 1254,
+      "bytes": 130618
+    }
+  ],
+  "/assets/products/institutional__classroom-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__classroom-chairs-640.webp",
+      "width": 640,
+      "bytes": 32000
+    },
+    {
+      "src": "/assets/responsive/products--institutional__classroom-chairs-960.webp",
+      "width": 960,
+      "bytes": 56032
+    },
+    {
+      "src": "/assets/products/institutional__classroom-chairs.webp",
+      "width": 1254,
+      "bytes": 115758
+    }
+  ],
+  "/assets/products/institutional__college-classroom-desks.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__college-classroom-desks-640.webp",
+      "width": 640,
+      "bytes": 35148
+    },
+    {
+      "src": "/assets/responsive/products--institutional__college-classroom-desks-960.webp",
+      "width": 960,
+      "bytes": 64760
+    },
+    {
+      "src": "/assets/products/institutional__college-classroom-desks.webp",
+      "width": 1254,
+      "bytes": 132552
+    }
+  ],
+  "/assets/products/institutional__computer-lab-tables.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__computer-lab-tables-640.webp",
+      "width": 640,
+      "bytes": 36308
+    },
+    {
+      "src": "/assets/responsive/products--institutional__computer-lab-tables-960.webp",
+      "width": 960,
+      "bytes": 65672
+    },
+    {
+      "src": "/assets/products/institutional__computer-lab-tables.webp",
+      "width": 1254,
+      "bytes": 133604
+    }
+  ],
+  "/assets/products/institutional__hostel-beds.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__hostel-beds-640.webp",
+      "width": 640,
+      "bytes": 35330
+    },
+    {
+      "src": "/assets/responsive/products--institutional__hostel-beds-960.webp",
+      "width": 960,
+      "bytes": 68198
+    },
+    {
+      "src": "/assets/products/institutional__hostel-beds.webp",
+      "width": 1254,
+      "bytes": 148206
+    }
+  ],
+  "/assets/products/institutional__hostel-bunk-beds.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__hostel-bunk-beds-640.webp",
+      "width": 640,
+      "bytes": 33180
+    },
+    {
+      "src": "/assets/responsive/products--institutional__hostel-bunk-beds-960.webp",
+      "width": 960,
+      "bytes": 67366
+    },
+    {
+      "src": "/assets/products/institutional__hostel-bunk-beds.webp",
+      "width": 1254,
+      "bytes": 156638
+    }
+  ],
+  "/assets/products/institutional__hostel-study-tables.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__hostel-study-tables-640.webp",
+      "width": 640,
+      "bytes": 29056
+    },
+    {
+      "src": "/assets/responsive/products--institutional__hostel-study-tables-960.webp",
+      "width": 960,
+      "bytes": 57570
+    },
+    {
+      "src": "/assets/products/institutional__hostel-study-tables.webp",
+      "width": 1254,
+      "bytes": 128954
+    }
+  ],
+  "/assets/products/institutional__hostel-wardrobes.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__hostel-wardrobes-640.webp",
+      "width": 640,
+      "bytes": 23894
+    },
+    {
+      "src": "/assets/responsive/products--institutional__hostel-wardrobes-960.webp",
+      "width": 960,
+      "bytes": 51462
+    },
+    {
+      "src": "/assets/products/institutional__hostel-wardrobes.webp",
+      "width": 1254,
+      "bytes": 121126
+    }
+  ],
+  "/assets/products/institutional__laboratory-workbenches.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__laboratory-workbenches-640.webp",
+      "width": 640,
+      "bytes": 30782
+    },
+    {
+      "src": "/assets/responsive/products--institutional__laboratory-workbenches-960.webp",
+      "width": 960,
+      "bytes": 58620
+    },
+    {
+      "src": "/assets/products/institutional__laboratory-workbenches.webp",
+      "width": 1254,
+      "bytes": 126558
+    }
+  ],
+  "/assets/products/institutional__lecture-chairs-with-writing-pads.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__lecture-chairs-with-writing-pads-640.webp",
+      "width": 640,
+      "bytes": 33126
+    },
+    {
+      "src": "/assets/responsive/products--institutional__lecture-chairs-with-writing-pads-960.webp",
+      "width": 960,
+      "bytes": 59318
+    },
+    {
+      "src": "/assets/products/institutional__lecture-chairs-with-writing-pads.webp",
+      "width": 1254,
+      "bytes": 124156
+    }
+  ],
+  "/assets/products/institutional__library-bookshelves.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__library-bookshelves-640.webp",
+      "width": 640,
+      "bytes": 45324
+    },
+    {
+      "src": "/assets/responsive/products--institutional__library-bookshelves-960.webp",
+      "width": 960,
+      "bytes": 82742
+    },
+    {
+      "src": "/assets/products/institutional__library-bookshelves.webp",
+      "width": 1254,
+      "bytes": 165098
+    }
+  ],
+  "/assets/products/institutional__library-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__library-chairs-640.webp",
+      "width": 640,
+      "bytes": 44684
+    },
+    {
+      "src": "/assets/responsive/products--institutional__library-chairs-960.webp",
+      "width": 960,
+      "bytes": 88888
+    },
+    {
+      "src": "/assets/products/institutional__library-chairs.webp",
+      "width": 1254,
+      "bytes": 190504
+    }
+  ],
+  "/assets/products/institutional__library-tables.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__library-tables-640.webp",
+      "width": 640,
+      "bytes": 32996
+    },
+    {
+      "src": "/assets/responsive/products--institutional__library-tables-960.webp",
+      "width": 960,
+      "bytes": 69328
+    },
+    {
+      "src": "/assets/products/institutional__library-tables.webp",
+      "width": 1254,
+      "bytes": 148744
+    }
+  ],
+  "/assets/products/institutional__preschool-tables-and-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__preschool-tables-and-chairs-640.webp",
+      "width": 640,
+      "bytes": 39344
+    },
+    {
+      "src": "/assets/responsive/products--institutional__preschool-tables-and-chairs-960.webp",
+      "width": 960,
+      "bytes": 69670
+    },
+    {
+      "src": "/assets/products/institutional__preschool-tables-and-chairs.webp",
+      "width": 1254,
+      "bytes": 140476
+    }
+  ],
+  "/assets/products/institutional__school-desks-and-benches.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__school-desks-and-benches-640.webp",
+      "width": 640,
+      "bytes": 31640
+    },
+    {
+      "src": "/assets/responsive/products--institutional__school-desks-and-benches-960.webp",
+      "width": 960,
+      "bytes": 58078
+    },
+    {
+      "src": "/assets/products/institutional__school-desks-and-benches.webp",
+      "width": 1254,
+      "bytes": 123644
+    }
+  ],
+  "/assets/products/institutional__student-lockers.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__student-lockers-640.webp",
+      "width": 640,
+      "bytes": 29828
+    },
+    {
+      "src": "/assets/responsive/products--institutional__student-lockers-960.webp",
+      "width": 960,
+      "bytes": 56178
+    },
+    {
+      "src": "/assets/products/institutional__student-lockers.webp",
+      "width": 1254,
+      "bytes": 130714
+    }
+  ],
+  "/assets/products/institutional__teacher-tables-and-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__teacher-tables-and-chairs-640.webp",
+      "width": 640,
+      "bytes": 29936
+    },
+    {
+      "src": "/assets/responsive/products--institutional__teacher-tables-and-chairs-960.webp",
+      "width": 960,
+      "bytes": 56034
+    },
+    {
+      "src": "/assets/products/institutional__teacher-tables-and-chairs.webp",
+      "width": 1254,
+      "bytes": 119364
+    }
+  ],
+  "/assets/products/institutional__training-tables.webp": [
+    {
+      "src": "/assets/responsive/products--institutional__training-tables-640.webp",
+      "width": 640,
+      "bytes": 31274
+    },
+    {
+      "src": "/assets/responsive/products--institutional__training-tables-960.webp",
+      "width": 960,
+      "bytes": 57868
+    },
+    {
+      "src": "/assets/products/institutional__training-tables.webp",
+      "width": 1254,
+      "bytes": 116814
+    }
+  ],
+  "/assets/products/living-room__accent-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__accent-chairs-640.webp",
+      "width": 640,
+      "bytes": 50382
+    },
+    {
+      "src": "/assets/responsive/products--living-room__accent-chairs-960.webp",
+      "width": 960,
+      "bytes": 106232
+    },
+    {
+      "src": "/assets/products/living-room__accent-chairs.webp",
+      "width": 1254,
+      "bytes": 225066
+    }
+  ],
+  "/assets/products/living-room__bookshelves.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__bookshelves-640.webp",
+      "width": 640,
+      "bytes": 33346
+    },
+    {
+      "src": "/assets/responsive/products--living-room__bookshelves-960.webp",
+      "width": 960,
+      "bytes": 67150
+    },
+    {
+      "src": "/assets/products/living-room__bookshelves.webp",
+      "width": 1254,
+      "bytes": 144494
+    }
+  ],
+  "/assets/products/living-room__coffee-tables.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__coffee-tables-640.webp",
+      "width": 640,
+      "bytes": 36940
+    },
+    {
+      "src": "/assets/responsive/products--living-room__coffee-tables-960.webp",
+      "width": 960,
+      "bytes": 74618
+    },
+    {
+      "src": "/assets/products/living-room__coffee-tables.webp",
+      "width": 1254,
+      "bytes": 156102
+    }
+  ],
+  "/assets/products/living-room__console-tables.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__console-tables-640.webp",
+      "width": 640,
+      "bytes": 30812
+    },
+    {
+      "src": "/assets/responsive/products--living-room__console-tables-960.webp",
+      "width": 960,
+      "bytes": 59266
+    },
+    {
+      "src": "/assets/products/living-room__console-tables.webp",
+      "width": 1254,
+      "bytes": 124484
+    }
+  ],
+  "/assets/products/living-room__display-units.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__display-units-640.webp",
+      "width": 640,
+      "bytes": 38676
+    },
+    {
+      "src": "/assets/responsive/products--living-room__display-units-960.webp",
+      "width": 960,
+      "bytes": 75216
+    },
+    {
+      "src": "/assets/products/living-room__display-units.webp",
+      "width": 1254,
+      "bytes": 158972
+    }
+  ],
+  "/assets/products/living-room__nesting-tables.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__nesting-tables-640.webp",
+      "width": 640,
+      "bytes": 43006
+    },
+    {
+      "src": "/assets/responsive/products--living-room__nesting-tables-960.webp",
+      "width": 960,
+      "bytes": 81610
+    },
+    {
+      "src": "/assets/products/living-room__nesting-tables.webp",
+      "width": 1254,
+      "bytes": 159648
+    }
+  ],
+  "/assets/products/living-room__ottomans.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__ottomans-640.webp",
+      "width": 640,
+      "bytes": 42816
+    },
+    {
+      "src": "/assets/responsive/products--living-room__ottomans-960.webp",
+      "width": 960,
+      "bytes": 87998
+    },
+    {
+      "src": "/assets/products/living-room__ottomans.webp",
+      "width": 1254,
+      "bytes": 188190
+    }
+  ],
+  "/assets/products/living-room__shoe-cabinets.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__shoe-cabinets-640.webp",
+      "width": 640,
+      "bytes": 35606
+    },
+    {
+      "src": "/assets/responsive/products--living-room__shoe-cabinets-960.webp",
+      "width": 960,
+      "bytes": 70630
+    },
+    {
+      "src": "/assets/products/living-room__shoe-cabinets.webp",
+      "width": 1254,
+      "bytes": 150836
+    }
+  ],
+  "/assets/products/living-room__side-end-tables.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__side-end-tables-640.webp",
+      "width": 640,
+      "bytes": 31508
+    },
+    {
+      "src": "/assets/responsive/products--living-room__side-end-tables-960.webp",
+      "width": 960,
+      "bytes": 61872
+    },
+    {
+      "src": "/assets/products/living-room__side-end-tables.webp",
+      "width": 1254,
+      "bytes": 129086
+    }
+  ],
+  "/assets/products/living-room__sofas.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__sofas-640.webp",
+      "width": 640,
+      "bytes": 40506
+    },
+    {
+      "src": "/assets/responsive/products--living-room__sofas-960.webp",
+      "width": 960,
+      "bytes": 85224
+    },
+    {
+      "src": "/assets/products/living-room__sofas.webp",
+      "width": 1254,
+      "bytes": 181868
+    }
+  ],
+  "/assets/products/living-room__tv-units.webp": [
+    {
+      "src": "/assets/responsive/products--living-room__tv-units-640.webp",
+      "width": 640,
+      "bytes": 27254
+    },
+    {
+      "src": "/assets/responsive/products--living-room__tv-units-960.webp",
+      "width": 960,
+      "bytes": 53682
+    },
+    {
+      "src": "/assets/products/living-room__tv-units.webp",
+      "width": 1254,
+      "bytes": 117638
+    }
+  ],
+  "/assets/products/office__bookcases.webp": [
+    {
+      "src": "/assets/responsive/products--office__bookcases-640.webp",
+      "width": 640,
+      "bytes": 35036
+    },
+    {
+      "src": "/assets/responsive/products--office__bookcases-960.webp",
+      "width": 960,
+      "bytes": 66286
+    },
+    {
+      "src": "/assets/products/office__bookcases.webp",
+      "width": 1254,
+      "bytes": 141502
+    }
+  ],
+  "/assets/products/office__executive-desks.webp": [
+    {
+      "src": "/assets/responsive/products--office__executive-desks-640.webp",
+      "width": 640,
+      "bytes": 27478
+    },
+    {
+      "src": "/assets/responsive/products--office__executive-desks-960.webp",
+      "width": 960,
+      "bytes": 57288
+    },
+    {
+      "src": "/assets/products/office__executive-desks.webp",
+      "width": 1254,
+      "bytes": 127500
+    }
+  ],
+  "/assets/products/office__filing-cabinets.webp": [
+    {
+      "src": "/assets/responsive/products--office__filing-cabinets-640.webp",
+      "width": 640,
+      "bytes": 33314
+    },
+    {
+      "src": "/assets/responsive/products--office__filing-cabinets-960.webp",
+      "width": 960,
+      "bytes": 68120
+    },
+    {
+      "src": "/assets/products/office__filing-cabinets.webp",
+      "width": 1254,
+      "bytes": 148754
+    }
+  ],
+  "/assets/products/office__meeting-conference-tables.webp": [
+    {
+      "src": "/assets/responsive/products--office__meeting-conference-tables-640.webp",
+      "width": 640,
+      "bytes": 27086
+    },
+    {
+      "src": "/assets/responsive/products--office__meeting-conference-tables-960.webp",
+      "width": 960,
+      "bytes": 55746
+    },
+    {
+      "src": "/assets/products/office__meeting-conference-tables.webp",
+      "width": 1254,
+      "bytes": 125068
+    }
+  ],
+  "/assets/products/office__mobile-drawer-pedestals.webp": [
+    {
+      "src": "/assets/responsive/products--office__mobile-drawer-pedestals-640.webp",
+      "width": 640,
+      "bytes": 32880
+    },
+    {
+      "src": "/assets/responsive/products--office__mobile-drawer-pedestals-960.webp",
+      "width": 960,
+      "bytes": 66520
+    },
+    {
+      "src": "/assets/products/office__mobile-drawer-pedestals.webp",
+      "width": 1254,
+      "bytes": 144902
+    }
+  ],
+  "/assets/products/office__modular-workstations.webp": [
+    {
+      "src": "/assets/responsive/products--office__modular-workstations-640.webp",
+      "width": 640,
+      "bytes": 41918
+    },
+    {
+      "src": "/assets/responsive/products--office__modular-workstations-960.webp",
+      "width": 960,
+      "bytes": 82990
+    },
+    {
+      "src": "/assets/products/office__modular-workstations.webp",
+      "width": 1254,
+      "bytes": 179728
+    }
+  ],
+  "/assets/products/office__office-chairs.webp": [
+    {
+      "src": "/assets/responsive/products--office__office-chairs-640.webp",
+      "width": 640,
+      "bytes": 37002
+    },
+    {
+      "src": "/assets/responsive/products--office__office-chairs-960.webp",
+      "width": 960,
+      "bytes": 67300
+    },
+    {
+      "src": "/assets/products/office__office-chairs.webp",
+      "width": 1254,
+      "bytes": 138758
+    }
+  ],
+  "/assets/products/office__office-storage-units.webp": [
+    {
+      "src": "/assets/responsive/products--office__office-storage-units-640.webp",
+      "width": 640,
+      "bytes": 29546
+    },
+    {
+      "src": "/assets/responsive/products--office__office-storage-units-960.webp",
+      "width": 960,
+      "bytes": 60236
+    },
+    {
+      "src": "/assets/products/office__office-storage-units.webp",
+      "width": 1254,
+      "bytes": 135074
+    }
+  ],
+  "/assets/products/office__reception-desks.webp": [
+    {
+      "src": "/assets/responsive/products--office__reception-desks-640.webp",
+      "width": 640,
+      "bytes": 30130
+    },
+    {
+      "src": "/assets/responsive/products--office__reception-desks-960.webp",
+      "width": 960,
+      "bytes": 59704
+    },
+    {
+      "src": "/assets/products/office__reception-desks.webp",
+      "width": 1254,
+      "bytes": 136450
+    }
+  ],
+  "/assets/products/office__reception-seating.webp": [
+    {
+      "src": "/assets/responsive/products--office__reception-seating-640.webp",
+      "width": 640,
+      "bytes": 39294
+    },
+    {
+      "src": "/assets/responsive/products--office__reception-seating-960.webp",
+      "width": 960,
+      "bytes": 78462
+    },
+    {
+      "src": "/assets/products/office__reception-seating.webp",
+      "width": 1254,
+      "bytes": 164246
+    }
+  ],
+  "/assets/products/office__work-desks.webp": [
+    {
+      "src": "/assets/responsive/products--office__work-desks-640.webp",
+      "width": 640,
+      "bytes": 31600
+    },
+    {
+      "src": "/assets/responsive/products--office__work-desks-960.webp",
+      "width": 960,
+      "bytes": 67502
+    },
+    {
+      "src": "/assets/products/office__work-desks.webp",
+      "width": 1254,
+      "bytes": 148532
+    }
+  ],
+  "/assets/services/assembly-integration.webp": [
+    {
+      "src": "/assets/responsive/services--assembly-integration-640.webp",
+      "width": 640,
+      "bytes": 37548
+    },
+    {
+      "src": "/assets/responsive/services--assembly-integration-960.webp",
+      "width": 960,
+      "bytes": 64428
+    },
+    {
+      "src": "/assets/services/assembly-integration.webp",
+      "width": 1536,
+      "bytes": 169530
+    }
+  ],
+  "/assets/services/mechanical-design-engineering.webp": [
+    {
+      "src": "/assets/responsive/services--mechanical-design-engineering-640.webp",
+      "width": 640,
+      "bytes": 27700
+    },
+    {
+      "src": "/assets/responsive/services--mechanical-design-engineering-960.webp",
+      "width": 960,
+      "bytes": 47410
+    },
+    {
+      "src": "/assets/services/mechanical-design-engineering.webp",
+      "width": 1536,
+      "bytes": 121180
+    }
+  ],
+  "/assets/services/precision-machining.webp": [
+    {
+      "src": "/assets/responsive/services--precision-machining-640.webp",
+      "width": 640,
+      "bytes": 31132
+    },
+    {
+      "src": "/assets/responsive/services--precision-machining-960.webp",
+      "width": 960,
+      "bytes": 52484
+    },
+    {
+      "src": "/assets/services/precision-machining.webp",
+      "width": 1536,
+      "bytes": 131340
+    }
+  ],
+  "/assets/services/product-manufacturing.webp": [
+    {
+      "src": "/assets/responsive/services--product-manufacturing-640.webp",
+      "width": 640,
+      "bytes": 33978
+    },
+    {
+      "src": "/assets/responsive/services--product-manufacturing-960.webp",
+      "width": 960,
+      "bytes": 58998
+    },
+    {
+      "src": "/assets/services/product-manufacturing.webp",
+      "width": 1536,
+      "bytes": 143228
+    }
+  ],
+  "/assets/services/project-manufacturing-solutions.webp": [
+    {
+      "src": "/assets/responsive/services--project-manufacturing-solutions-640.webp",
+      "width": 640,
+      "bytes": 28162
+    },
+    {
+      "src": "/assets/responsive/services--project-manufacturing-solutions-960.webp",
+      "width": 960,
+      "bytes": 53072
+    },
+    {
+      "src": "/assets/services/project-manufacturing-solutions.webp",
+      "width": 1536,
+      "bytes": 156794
+    }
+  ],
+  "/assets/services/quality-inspection.webp": [
+    {
+      "src": "/assets/responsive/services--quality-inspection-640.webp",
+      "width": 640,
+      "bytes": 28408
+    },
+    {
+      "src": "/assets/responsive/services--quality-inspection-960.webp",
+      "width": 960,
+      "bytes": 49982
+    },
+    {
+      "src": "/assets/services/quality-inspection.webp",
+      "width": 1536,
+      "bytes": 132768
+    }
+  ],
+  "/assets/services/sheet-metal-fabrication.webp": [
+    {
+      "src": "/assets/responsive/services--sheet-metal-fabrication-640.webp",
+      "width": 640,
+      "bytes": 24060
+    },
+    {
+      "src": "/assets/responsive/services--sheet-metal-fabrication-960.webp",
+      "width": 960,
+      "bytes": 40130
+    },
+    {
+      "src": "/assets/services/sheet-metal-fabrication.webp",
+      "width": 1536,
+      "bytes": 104970
+    }
+  ],
+  "/assets/services/surface-treatment-finishing.webp": [
+    {
+      "src": "/assets/responsive/services--surface-treatment-finishing-640.webp",
+      "width": 640,
+      "bytes": 26780
+    },
+    {
+      "src": "/assets/responsive/services--surface-treatment-finishing-960.webp",
+      "width": 960,
+      "bytes": 66432
+    },
+    {
+      "src": "/assets/services/surface-treatment-finishing.webp",
+      "width": 1536,
+      "bytes": 253162
+    }
+  ],
+  "/assets/services/welding-fabrication.webp": [
+    {
+      "src": "/assets/responsive/services--welding-fabrication-640.webp",
+      "width": 640,
+      "bytes": 32784
+    },
+    {
+      "src": "/assets/responsive/services--welding-fabrication-960.webp",
+      "width": 960,
+      "bytes": 56570
+    },
+    {
+      "src": "/assets/services/welding-fabrication.webp",
+      "width": 1536,
+      "bytes": 148834
+    }
+  ]
+}

@@ -82,8 +82,43 @@ Google guidance: https://developers.google.com/search/docs/essentials and https:
 
 ## Validation
 
+The quality pass adds `quality.mjs`, `dist/assets/quality.css`, `data/service-guidance.json` and responsive image variants. After changing source artwork, run `prepare-assets.py`, then `optimize-images.py`, then `node build.mjs`. Keep `data/responsive-images.json` with its generated assets. Local WOFF2 fonts and their open-source licenses are stored in `dist/assets/fonts`; `download-fonts.mjs` records their reproducible source download.
+
+Additional regression checks are `node check-carousel.mjs` and `node check-quality.mjs`. The measured changes and remaining launch limitations are documented in `reports/QUALITY-PASS.md`. These checks do not certify a Lighthouse score or Google ranking.
+
+## September 2026 full-site redesign
+
+`redesign.mjs` renders the mixed furniture/engineering homepage and enhances catalogue, About and Contact content. `dist/assets/redesign.css` is the shared responsive visual system layered after the base stylesheet. Both are source files; preserve them when building. All 96 routes use the new shared design.
+
+The homepage has six alternating furniture/engineering slides. `dist/assets/site.js` advances them every 3000ms, supports previous/next and pause/play, and suspends rotation when explicitly paused or in a hidden tab. Reduced-motion preferences disable automatic rotation initially. Existing labelled concept imagery is reused; there are no added animation libraries or server dependencies.
+
+Desktop and 320/390px browser checks cover every page template, gallery view changes, mobile navigation and slider controls. The full static check remains the route/metadata/asset validation gate. Business launch configuration and example-price labels remain unchanged.
+
 `node check.mjs --complete` checks all generated routes, local links and images, unique titles/descriptions, JSON-LD, canonical tags, 74 product pages, nine service pages and four gallery controls per product. It rejects missing catalogue imagery and structured price offers on concept products.
 
 Browser checks cover desktop/mobile layout, navigation, product search, galleries and image enlargement, finish/quantity enquiry handoff, and local enquiry download. These are design and functionality checks, not evidence of real product specifications or a guarantee of Google ranking.
 
 Where supported, optional WebMCP tools expose the same visible catalogue filtering and product enquiry configuration. Both tools were checked with valid and invalid inputs; neither sends messages or creates orders. Full image-generation prompts are recorded in `data/image-prompts.json`.
+
+Slider fix: CSS and JavaScript URLs include content hashes to prevent stale cached code after deployments. Hero controls use normal layout flow to avoid overlaps at short viewport heights. The furniture grid includes a seventh Custom & Bulk Orders enquiry card.
+
+## Live-server upload package
+
+The latest page redesigns are maintained in `story.mjs`, `redesign.mjs`, and
+`writeup-sections.mjs`, with shared styling in `dist/assets/quality.css`.
+All images needed to build and serve the website are included in `dist/assets`.
+Original image-generation artwork outside the repository is optional and is not
+needed for normal builds. Do not clear `dist/assets` as a build cleanup step.
+
+After building and checking the website, create the domain-specific upload ZIP:
+
+```sh
+python package-upload.py https://arvigaindustries.com
+```
+
+This writes `../outputs/ARVIGA-Live-Website.zip`. Extract its contents directly
+into the live domain's web root. It includes upload instructions, public indexing,
+canonical URLs and a sitemap for the supplied domain. The package command leaves
+the Cloudflare preview build unchanged; `dist` remains configured for the preview.
+The contact form currently downloads an enquiry brief; business contacts and
+confirmed selling prices are still pending. No automatic GitHub deployment is set up.

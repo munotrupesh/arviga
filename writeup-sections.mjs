@@ -1,0 +1,19 @@
+export function furniturePrinciples({cats,productImage}){
+ const picture=(category,slug,view=3)=>{const c=cats.find(c=>c.slug===category);return productImage(c,c.products.find(p=>p.slug===slug),view);};
+ return `<section class="furniture-principles" id="furniture-philosophy"><div class="principles-photo">${picture('living-room','sofas')}<span>COMFORT. CHARACTER. EVERYDAY PURPOSE.</span></div><div class="principles-copy"><span class="eyebrow">GOOD FURNITURE, SIMPLY DEFINED</span><h2>Beautiful to look at.<br>Easy to live with.</h2><p>Good furniture should feel comfortable, function effortlessly and belong in the space around it. That thinking guides our approach to every collection.</p><dl><div><dt>Comfort & function</dt><dd>Proportions, seating and storage considered around everyday use.</dd></div><div><dt>Materials & details</dt><dd>Surfaces, hardware and construction considered as parts of one design.</dd></div><div><dt>Thoughtful design</dt><dd>A balance of character and practicality for modern living and working spaces.</dd></div></dl><a class="text-link" href="/about/">The thinking behind ARVIGA <span aria-hidden="true">↗</span></a></div></section>
+ <section class="flexible-furniture section"><div class="section-heading"><div><span class="eyebrow">MORE WAYS TO MAKE ROOM</span><h2>Furniture that fits<br>the way you live.</h2></div><p>Explore modular, foldable and flat-pack options. Configuration, assembly and finish are agreed around your requirements.</p></div><div class="flexible-grid">${[
+ ['Modular','Arrange the space around you.','Discuss connected workstations and layouts shaped around your team.','office','modular-workstations'],
+ ['Foldable','Make room when you need it.','Explore dining options for spaces that serve more than one purpose.','dining','foldable-dining-tables'],
+ ['Flat-pack','Plan for access and assembly.','Discuss panel-based desk construction, packaging and on-site assembly.','office','work-desks']
+ ].map(([name,title,copy,c,p])=>`<a class="flexible-card reveal" href="/products/${c}/${p}/"><div class="flexible-photo">${picture(c,p)}</div><div class="flexible-copy"><span class="eyebrow">${name}</span><h3>${title}</h3><p>${copy}</p><span class="flexible-link">Explore ${name.toLowerCase()} options <span aria-hidden="true">↗</span></span></div></a>`).join('')}</div></section>`;
+}
+export function manufacturingJourney(){
+ return `<section class="manufacturing-journey section"><div class="journey-intro"><div><span class="eyebrow">A CONNECTED MANUFACTURING JOURNEY</span><h2>From the first drawing<br>to the final assembly.</h2><p>Bring us a complete project or a specific requirement. The stages below show how our services can connect; your agreed scope determines which are needed.</p></div><figure><img src="/assets/services/assembly-integration.webp" alt="Mechanical components and a subassembly on an assembly bench" width="1536" height="1024" loading="lazy" decoding="async"></figure></div><ol class="journey-steps">${[
+ ['Design','Resolve the drawings, application and key requirements.','mechanical-design-engineering'],
+ ['Prototype','Review an initial version before agreeing the production approach.','product-manufacturing'],
+ ['Manufacture','Coordinate fabrication and machining to the agreed specification.','project-manufacturing-solutions'],
+ ['Finish','Define surface preparation, coating and appearance requirements.','surface-treatment-finishing'],
+ ['Inspect','Check the dimensions and agreed acceptance criteria.','quality-inspection'],
+ ['Assemble & dispatch','Bring parts together and agree testing, packaging and dispatch.','assembly-integration']
+ ].map(([title,copy,slug],i)=>`<li><span class="journey-number">0${i+1}</span><h3><a href="/services/${slug}/">${title}</a></h3><p>${copy}</p></li>`).join('')}</ol></section>`;
+}

@@ -4,3 +4,9 @@ node_modules/
 *.log
 QA/
 .wrangler/
+
+.env.*
+!.env.example
+*.pem
+*.key
+
